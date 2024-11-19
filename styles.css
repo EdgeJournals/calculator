@@ -1,3 +1,4 @@
+@media (min-width:320px){
 body{
     margin: 0;
     display: flex;
@@ -54,4 +55,4 @@ button:active{
 }
 .operator-btn:active{
     background-color: hsl(35, 100%, 75%);
-}
+} }
